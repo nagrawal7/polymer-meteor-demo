@@ -1,0 +1,22 @@
+{
+  "name": "polymer-meteor",
+  "version": "0.0.0",
+  "authors": [
+    "Nishad Agrawal <nishadagrawal7@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest",
+    "core-elements": "Polymer/core-elements#latest",
+    "paper-elements": "Polymer/paper-elements#latest",
+    "font-roboto": "Polymer/font-roboto"
+  }
+}
